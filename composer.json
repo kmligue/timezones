@@ -1,0 +1,19 @@
+{
+    "name": "kmligue/timezones",
+    "description": "Demo package to show time",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kelvin Martin Ligue",
+            "email": "liguekelvin@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "KMLigue\\Timezones\\": "src/"
+        }
+    }
+}
